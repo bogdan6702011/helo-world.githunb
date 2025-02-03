@@ -19,7 +19,17 @@ const data = [
     {title:"fandom", url:"https://www.fandom.com"},
     {title:"temu", url:"https://www.temu.com"},
     {title:"mail.ru", url:"https://mail.ru"},
-    {title:"google", url:"https://g.co/kgs/RitwX2a"}
+    {title:"google", url:"https://g.co/kgs/RitwX2a"},
+    {title:"rutube", url:"https://rutube.ru"},
+    {title:"github", url:"https://github.com"},
+    {title:"Web Desing Museum", url:"https://www.webdesignmuseum.org"},
+    {title:"pinterest", url:"https://ru.pinterest.com"},
+    {title:"одноклассники", url:"https://ok.ru/"},
+    {title:"yandex", url:"https://yandex.ru"},
+    {title:"samsung.com", url:"https://www.samsung.com"},
+    {title:"apple.com", url:"https://www.apple.com"},
+    {title:"huawie.com", url:"https://consumer.huawei.com"},
+    {title:"ebay", url:"https://www.ebay.com"}
   ];
 
    // Функция поиска
